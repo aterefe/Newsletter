@@ -60,7 +60,3 @@ app.listen(process.env.PORT || 3000, function(){
   console.log("Sever is running on port 3000");
 });
 
-//API Key
-// 0f9f5806f905482a92654a876dac5671 - us21
-//Unique Id
-//393ffe5c64
